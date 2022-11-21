@@ -1,11 +1,22 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
-const Home = () => {
+import Layout from '../components/layout'
+
+export default function Home() {
   return (
-    <div>박현민</div>
-  )
-};
+      <div>
+        <Head>
+          <title>Full Stack Book JWT</title>
+          <meta name="description" content="Full Stack Book JWT" />
+          <link rel="icon" href="/favicon.ico" />
+        </Head>
 
-export default Home;
+        <Layout>
+          <h1>Home</h1>
+          <p><Link href="/signup">Sign Up</Link></p>
+          <p><Link href="/signin">Sign In</Link></p>
+        </Layout>
+      </div>
+  )
+}
