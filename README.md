@@ -13,6 +13,9 @@
 #### Frameworks, Libraries, etc...
 ![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000000)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=fff)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=fff)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=fff)
 ![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff)
 ![redux-saga](https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=fff)  
 
