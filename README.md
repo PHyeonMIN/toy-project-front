@@ -2,7 +2,7 @@
 
 #### Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=fff)
-![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF)
+<!-- ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF) -->
 
 #### Languages
 ![javascript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
