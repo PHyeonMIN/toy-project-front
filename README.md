@@ -5,7 +5,8 @@
 ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF)
 
 #### Languages
-![javascript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![javascript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff)  
 
 #### Frameworks, Libraries, etc...
 ![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
