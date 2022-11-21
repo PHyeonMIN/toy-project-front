@@ -1,5 +1,7 @@
 # toy-project-front
 
+![node](https://img.shields.io/badge/node.js%20%2016.10.0-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
+
 #### Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=fff)
 <!-- ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF) -->
