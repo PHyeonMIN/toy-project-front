@@ -14,7 +14,7 @@ export default function LayoutAuthenticated(props) {
         const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/test/profile`, {
             headers: {
                 "Content-Type": "application/json",
-                "Authorization": "Bearer " + localStorage.getItem("token")
+                // "Authorization": "Bearer " + localStorage.getItem("token")   // 로컬에 안넣고 헤더에 넣을 거임
             }
         })
         if (res.ok) {
