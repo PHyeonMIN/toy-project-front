@@ -1,4 +1,9 @@
 {
 //  "extends": "next/core-web-vitals"
+  "env": {
+    "browser": true,
+    "amd": true,
+    "node": true
+  },
   "extends": ["next", "next/babel" ,"prettier"]
 }
