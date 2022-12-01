@@ -1,15 +1,18 @@
-const Countdown = (targetDate: Date): Number[] => {
-    const countDownDate = new Date(targetDate).getTime()
+import { useEffect, useState } from 'react';
+
+const targetDate = new Date('2022-12-29 23:59:59');
+const Countdown = (targetDate: Date): number[] => {
+    const countDownDate = new Date(targetDate).getTime();
 
     const [countDown, setCountDown] = useState(
         countDownDate - new Date().getTime()
-    )
+    );
 
     useEffect(() => {
         setInterval(() => {
             setCountDown(countDownDate - new Date().getTime());
-        }, 1000)
-    }, [countDownDate])
+        }, 1000);
+    }, [countDownDate]);
 
     return getReturnValues(countDown)
 }
