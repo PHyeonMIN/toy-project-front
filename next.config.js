@@ -22,9 +22,9 @@
 //         return config;
 //     },
 // };
-module.exports = {
-    webpack: (
-        config,
-        { buildId, dev, isServer, defaultLoaders, nextRuntime, webpack },
-    ) => config,
-};
+// module.exports = {
+//     webpack: (
+//         config,
+//         { buildId, dev, isServer, defaultLoaders, nextRuntime, webpack },
+//     ) => config,
+// };
