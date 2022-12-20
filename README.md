@@ -20,4 +20,7 @@
 ![redux-saga](https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=fff)  
 
 
-- webpack, babel, esLint, redux, redux-saga, prettier?
+- webpack, babel, esLint, redux, redux-saga, prettier?  
+------------
+### 디자인 시안?!
+![image](https://user-images.githubusercontent.com/94040224/208608849-3c0f547a-687d-49d6-932e-f74f9a2c5f18.png)
